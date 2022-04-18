@@ -2,6 +2,10 @@ body {
   background-color: #d2c3ff;
 }
 
+a {
+  color: #ccff8c;
+}
+
 .site-description {
   font-size: 1.5em;
 }
